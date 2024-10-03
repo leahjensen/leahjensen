@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there, I'm Leah Jensen! I'm from Houston, Texas and am currently in Rexburg, Idaho for college. I'm attending BYU-Idaho and am majoring in Web Design and Development. 
+- 📫 How to reach me: leahjensen8@gmail.com
 
-<!--
-**leahjensen/leahjensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills and Technologies
+Languages: HTML, CSS, JavaScript
+Tools: Visual Studio Code, Git, GitHub, Adobe Creative Cloud
+Soft Skills: Communication, teamwork, problem-solving, time management 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Designed by Me
+
+https://leahjensen.github.io/wdd-131/
